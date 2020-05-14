@@ -17,7 +17,7 @@
 </p>
 
 
-## Rotas da aplicação
+## Rotas da Aplicação
 
 - **`POST /repositories`**: A rota recebe `title`, `url` e `techs` dentro do corpo da requisição e cadastra um novo projeto dentro de um objeto no seguinte formato: `{ id: "uuid", title: 'Desafio Node.js', url: 'http://github.com/...', techs: ["Node.js", "..."], likes: 0 }`.
 
@@ -30,7 +30,7 @@
 - **`POST /repositories/:id/like`**: A rota aumenta o número de likes do repositório específico escolhido através do `id` presente nos parâmetros da rota, a cada chamada dessa rota, o número de likes aumenta em 1;
 
 
-## Específicação dos testes
+## Especificações dos Testes
 
 Para esse desafio temos os seguintes testes:
 
