@@ -17,7 +17,7 @@
 </p>
 
 
-## [Rotas da aplicação](routes-aplication)
+## [Rotas da aplicação](routes-aplication/README.md)
 
 - **`POST /repositories`**: A rota recebe `title`, `url` e `techs` dentro do corpo da requisição e cadastra um novo projeto dentro de um objeto no seguinte formato: `{ id: "uuid", title: 'Desafio Node.js', url: 'http://github.com/...', techs: ["Node.js", "..."], likes: 0 }`.
 
