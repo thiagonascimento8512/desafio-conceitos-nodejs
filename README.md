@@ -19,8 +19,8 @@
 
 
 ## Tecnologias Utilizadas
-- NodeJS;
-- Express;
+- [NodeJS](https://nodejs.org/);
+- [Express](https://expressjs.com/pt-br/);
 
 ## Rotas da Aplicação
 
