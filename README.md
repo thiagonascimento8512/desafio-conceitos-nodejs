@@ -11,9 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="#routes-aplication>Rotas da aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#routes-aplication">Rotas da Aplicação</a>
-  <a href="#tests-especifications">Especificações dos Testes</a>
+  <a href="#routes-aplication">Rotas da Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tests-especifications">Especificações dos Testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
